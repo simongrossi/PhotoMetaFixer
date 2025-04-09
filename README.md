@@ -1,7 +1,5 @@
 # PhotoMetaFixer pour macOS
 
-![Icône de l'application (Suggestion : Insérez une capture d'écran ici)](URL_DE_VOTRE_CAPTURE_ECRAN.png)
-
 ## Description Courte
 
 PhotoMetaFixer est une application macOS développée en SwiftUI qui permet de mettre à jour les métadonnées EXIF (date/heure) de vos photos en se basant sur les informations de votre bibliothèque Photos. Elle utilise l'outil externe puissant [ExifTool](https://exiftool.org/) pour effectuer les modifications sur des copies temporaires des images.
